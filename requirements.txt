@@ -1,0 +1,12 @@
+torch
+torchvision
+torcheval
+opencv-python
+numpy
+matplotlib
+Pillow
+wandb
+# only needed for scripts/visualize.py
+torchview
+graphviz
+onnx
