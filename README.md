@@ -1,8 +1,8 @@
-# Alzheimer’s Classification Based on Augmented MRIs Using a Convolutional Neural Network
+# Alzheimer’s classification based on augmented MRIs using a convolutional neural network
 
 A convolutional neural network built in PyTorch that classifies brain MRI slices into four stages of
 Alzheimer's-related dementia. It includes a full pipeline: preprocessing, data augmentation, class-imbalance
-handling, Bayesian hyperparameter search with Weights & Biases, and per-class test evaluation.
+handling, Bayesian hyperparameter search with Weights & Biases, and per-class test evaluation. See the [abstract](Abstract.pdf).
 
 | Class | Train images | Test images |
 |---|---:|---:|
